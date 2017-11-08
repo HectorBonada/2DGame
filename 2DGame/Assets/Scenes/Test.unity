@@ -178,6 +178,22 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!50 &72297575 stripped
+Rigidbody2D:
+  m_PrefabParentObject: {fileID: 50567525259235280, guid: 3729aa77ebe2c2f439a7a6cd48b95da3,
+    type: 2}
+  m_PrefabInternal: {fileID: 255116510}
+--- !u!114 &72297577 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114965388003349330, guid: 3729aa77ebe2c2f439a7a6cd48b95da3,
+    type: 2}
+  m_PrefabInternal: {fileID: 255116510}
+  m_Script: {fileID: 11500000, guid: 5c89e880bd61d26479d0081f6c17e2ed, type: 3}
+--- !u!4 &72297578 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4475612751334664, guid: 3729aa77ebe2c2f439a7a6cd48b95da3,
+    type: 2}
+  m_PrefabInternal: {fileID: 255116510}
 --- !u!114 &72297579
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -195,8 +211,8 @@ MonoBehaviour:
   running: 0
   isFacingRight: 1
   isJumping: 0
-  rb: {fileID: 0}
-  collisions: {fileID: 0}
+  rb: {fileID: 72297575}
+  collisions: {fileID: 72297577}
   walkSpeed: 3
   runSpeed: 4
   movementSpeed: 0
@@ -442,7 +458,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4475612751334664, guid: 3729aa77ebe2c2f439a7a6cd48b95da3, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4251888474601194, guid: 3729aa77ebe2c2f439a7a6cd48b95da3, type: 2}
       propertyPath: m_LocalPosition.x
@@ -649,12 +665,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 282892848}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.84, z: -5.31}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.463, z: -5.31}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_Father: {fileID: 72297578}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &308760448 stripped
 BoxCollider2D:
@@ -1716,7 +1732,7 @@ Transform:
   m_Children:
   - {fileID: 1960403004}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1130412833
 Prefab:
@@ -2014,7 +2030,7 @@ Transform:
   - {fileID: 1927730936}
   - {fileID: 323560765}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!66 &1335200561
 CompositeCollider2D:
@@ -2823,7 +2839,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!4 &2099530526 stripped
 Transform:
