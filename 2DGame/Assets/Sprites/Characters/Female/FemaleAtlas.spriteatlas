@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FemaleAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 200a75b763409b2f42d98381913c247c
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 200a75b763409b2f42d98381913c247c
+    totalSpriteSurfaceArea: 211200
+    packables:
+    - {fileID: 102900000, guid: 66ca86c4b9b86cf4f8ec48727140f5e6, type: 3}
+    packedSpriteRenderDataKeys:
+    - 7c227d6c3b1a493419143180a3fcf2e6: 21300000
+    - 6872e92636f8c254b9a2b1abca520540: 21300000
+    - 8f9805e21f6228143aa9e95fda7a9591: 21300000
+    - 4d42b14b38d881c479c3d7a593b839ca: 21300000
+    - d36e5ccfb8580e1439a98dbba138e090: 21300000
+    - 075ad82074bbc5548904ec9a8843f719: 21300000
+    - 4077b6e6f2d097b4098a8e5ad3675bc2: 21300000
+    - 8d347c2c505e30f44b52ea57424e2c07: 21300000
+    - 65dfc06bac6bed5438f2a943b5183bbe: 21300000
+    - ebd76869acf3f9f48801a66e027d39fd: 21300000
+    - 8a594a7058c77d747be8e261c971f467: 21300000
+    - 6a1c5f1714a67e24bb79b1310e146288: 21300000
+    - d2db1a73b7154d04088568719f9e9639: 21300000
+    - 00278a7369ee9f640b23e4d7a0cda13b: 21300000
+    - 1452e2c8dd4dcc648a1fd5194fc42c9f: 21300000
+    - ccee0db2530123c42acf80cbd4a094d2: 21300000
+    - 0fc023783100c38489a37d3e887230f1: 21300000
+    - d22679e312e9a4e41977dca1b71c2a31: 21300000
+    - 81d3dd482f9fb72409f21f9a7a9949fd: 21300000
+    - 6e5503310e452bb4f8be4a4aac85b9a0: 21300000
+    - 4e96b65e45f056c45b4f89c2027e35f8: 21300000
+    - 868da3789aa5c2f409b76103699433a4: 21300000
+    - 45a047852f08c354f9411eb6312da862: 21300000
+    - 443328b0bdaab654a90f7946610e2309: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7c227d6c3b1a493419143180a3fcf2e6, type: 3}
+  - {fileID: 21300000, guid: 6872e92636f8c254b9a2b1abca520540, type: 3}
+  - {fileID: 21300000, guid: 8f9805e21f6228143aa9e95fda7a9591, type: 3}
+  - {fileID: 21300000, guid: 4d42b14b38d881c479c3d7a593b839ca, type: 3}
+  - {fileID: 21300000, guid: d36e5ccfb8580e1439a98dbba138e090, type: 3}
+  - {fileID: 21300000, guid: 075ad82074bbc5548904ec9a8843f719, type: 3}
+  - {fileID: 21300000, guid: 4077b6e6f2d097b4098a8e5ad3675bc2, type: 3}
+  - {fileID: 21300000, guid: 8d347c2c505e30f44b52ea57424e2c07, type: 3}
+  - {fileID: 21300000, guid: 65dfc06bac6bed5438f2a943b5183bbe, type: 3}
+  - {fileID: 21300000, guid: ebd76869acf3f9f48801a66e027d39fd, type: 3}
+  - {fileID: 21300000, guid: 8a594a7058c77d747be8e261c971f467, type: 3}
+  - {fileID: 21300000, guid: 6a1c5f1714a67e24bb79b1310e146288, type: 3}
+  - {fileID: 21300000, guid: d2db1a73b7154d04088568719f9e9639, type: 3}
+  - {fileID: 21300000, guid: 00278a7369ee9f640b23e4d7a0cda13b, type: 3}
+  - {fileID: 21300000, guid: 1452e2c8dd4dcc648a1fd5194fc42c9f, type: 3}
+  - {fileID: 21300000, guid: ccee0db2530123c42acf80cbd4a094d2, type: 3}
+  - {fileID: 21300000, guid: 0fc023783100c38489a37d3e887230f1, type: 3}
+  - {fileID: 21300000, guid: d22679e312e9a4e41977dca1b71c2a31, type: 3}
+  - {fileID: 21300000, guid: 81d3dd482f9fb72409f21f9a7a9949fd, type: 3}
+  - {fileID: 21300000, guid: 6e5503310e452bb4f8be4a4aac85b9a0, type: 3}
+  - {fileID: 21300000, guid: 4e96b65e45f056c45b4f89c2027e35f8, type: 3}
+  - {fileID: 21300000, guid: 868da3789aa5c2f409b76103699433a4, type: 3}
+  - {fileID: 21300000, guid: 45a047852f08c354f9411eb6312da862, type: 3}
+  - {fileID: 21300000, guid: 443328b0bdaab654a90f7946610e2309, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - female_walk2
+  - female_walk1
+  - female_stand
+  - female_talk
+  - female_swim2
+  - female_swim1
+  - female_fall
+  - female_idle
+  - female_hang
+  - female_hold2
+  - female_hold1
+  - female_duck
+  - female_hurt
+  - female_kick
+  - female_back
+  - female_slide
+  - female_climb2
+  - female_climb1
+  - female_action1
+  - female_action2
+  - female_jump
+  - female_cheer2
+  - female_skid
+  - female_cheer1
+  m_Tag: FemaleAtlas
+  m_IsVariant: 0

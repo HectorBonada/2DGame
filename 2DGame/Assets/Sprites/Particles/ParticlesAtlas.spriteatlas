@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ParticlesAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 2c8caab8a30b2769a309d24291d55ee4
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 2c8caab8a30b2769a309d24291d55ee4
+    totalSpriteSurfaceArea: 5920
+    packables:
+    - {fileID: 102900000, guid: 2adc1c3fecd6cf042852dbed297a408d, type: 3}
+    packedSpriteRenderDataKeys:
+    - 505853d9aa16cad4abd38934942f7dfa: 21300000
+    - f7e83bbdb06a7f145ba7073d8d5b4243: 21300000
+    - 42a7fdebb982b3b4fbe48c6805c4b86a: 21300000
+    - 478fd05e592838d4c8a743f1ddc5110b: 21300000
+    - dade5ce765ef1794dadbe046acb246fb: 21300000
+    - 8f8526ae0f734f64d9a69aab0a1e49c5: 21300000
+    - 85d0f650f0426674e83448476886931e: 21300000
+    - b0b64208ff6388746b12240bdcf03cd1: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 505853d9aa16cad4abd38934942f7dfa, type: 3}
+  - {fileID: 21300000, guid: f7e83bbdb06a7f145ba7073d8d5b4243, type: 3}
+  - {fileID: 21300000, guid: 42a7fdebb982b3b4fbe48c6805c4b86a, type: 3}
+  - {fileID: 21300000, guid: 478fd05e592838d4c8a743f1ddc5110b, type: 3}
+  - {fileID: 21300000, guid: dade5ce765ef1794dadbe046acb246fb, type: 3}
+  - {fileID: 21300000, guid: 8f8526ae0f734f64d9a69aab0a1e49c5, type: 3}
+  - {fileID: 21300000, guid: 85d0f650f0426674e83448476886931e, type: 3}
+  - {fileID: 21300000, guid: b0b64208ff6388746b12240bdcf03cd1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - swirl_red
+  - swirl_white
+  - swirl_blue
+  - swirl_orange
+  - square_white
+  - square_blue
+  - square_red
+  - square_orange
+  m_Tag: ParticlesAtlas
+  m_IsVariant: 0
