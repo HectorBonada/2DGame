@@ -138,10 +138,8 @@ public class PlayerBehaviour : MonoBehaviour
     {
         rend.flipX = !rend.flipX;
         isFacingRight = !isFacingRight;
-        collisions.Flip(isFacingRight);
+        collisions.lateralBoxPosition.x = -collisions.lateralBoxPosition.x;
     }
-
-
     #region Public functions
     public void SetAxis(Vector2 inputAxis)
     {
